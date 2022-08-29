@@ -1,3 +1,3 @@
 # ppvirt
-fake &amp; log drivers
+Fake &amp; LPT: log drivers
 By AlHyene with his dog.
